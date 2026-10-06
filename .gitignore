@@ -1,0 +1,7 @@
+# Build artifacts and local data
+/target/
+/data/
+*.db
+*.wav
+.idea/
+*.iml
